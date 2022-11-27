@@ -1,0 +1,13 @@
+.suggestion-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.arrow {
+  height: 25px;
+  width: 25px;
+}
